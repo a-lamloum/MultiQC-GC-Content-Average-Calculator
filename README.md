@@ -19,7 +19,7 @@ To use this project, clone the repository and install the required dependencies:
 
 ```bash
 git clone https://github.com/a-lamloum/MultiQC-GC-Content-Average-Calculator.git
-cd multiqc-gc-content-calculator
+cd MultiQC-GC-Content-Average-Calculator
 ```
 
 ## Usage 
