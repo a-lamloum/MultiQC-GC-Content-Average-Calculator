@@ -18,7 +18,7 @@ The **MultiQC GC Content Calculator** is a Python script designed to parse HTML 
 To use this project, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/multiqc-gc-content-calculator.git
+git clone https://github.com/a-lamloum/MultiQC-GC-Content-Average-Calculator.git
 cd multiqc-gc-content-calculator
 ```
 
