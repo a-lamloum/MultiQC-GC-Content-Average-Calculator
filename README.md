@@ -25,10 +25,10 @@ cd MultiQC-GC-Content-Average-Calculator
 ## Usage 
 Run the script from the command line, providing the path to the MultiQC HTML report as an argument:
 ```
-python script.py <html_file>.html
+python avg_gc.py <html_file>.html
 ```
 
 ## Example 
 ```
-python script.py multiqc_report.html
+python avg_gc.py multiqc_report.html
 ```
